@@ -1,0 +1,28 @@
+name: CogentDesi
+favicon: null
+layout_spectrum: 0.9023351424839348
+typography_spectrum: 0.265014321077615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5854357639327645
+  lightness: 0.7086367132142186
+  saturation: 0.021773660322651267
+  rhythmicContrast: 0.8004106511361897
+purpose: []
