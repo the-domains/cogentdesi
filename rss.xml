@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CogentDesi]]></title>
         <description><![CDATA[CogentDesi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://cogentdesi.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 12:04:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 12:32:38 GMT</lastBuildDate>
+        <atom:link href="http://cogentdesi.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is the title]]></title>
+            <description><![CDATA[<article><h1>This is the title</h1><p>This was added individually</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae839e66a96d177a1a436da337caa05cc853b50d.png"></article>]]></description>
+            <link>http://cogentdesi.com/this-is-the-title/index.html</link>
+            <guid isPermaLink="false">8f6341d4-2435-4843-90e3-4b301b2a741f</guid>
+            <pubDate>Fri, 01 Jan 2016 12:32:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello]]></title>
             <description><![CDATA[<article><h1>Hello</h1><p>Hello!</p></article>]]></description>
-            <link>undefinedhello/index.html</link>
+            <link>http://cogentdesi.com/hello/index.html</link>
             <guid isPermaLink="false">603bd8fe-2d75-4b78-b4c1-29256cb8c259</guid>
             <pubDate>Fri, 01 Jan 2016 12:03:43 GMT</pubDate>
         </item>
