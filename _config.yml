@@ -29,11 +29,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: CogentDesi
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.265014321077615
-layout_spectrum: 0.4699248
+layout_spectrum: 0
