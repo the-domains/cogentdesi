@@ -1,39 +1,39 @@
-name: CogentDesi
-favicon: null
-layout_spectrum: 0.6879699
-typography_spectrum: 0.265014321077615
-title: CogentDesi
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.6879699
+title: CogentDesi
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.02177366032265127
+  brandStrength: 0.5053706
+  rhythmicContrast: 0.8004106511361897
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#3F48CC'
-  brandStrength: 0.5053706
   lightness: 0.7086367132142186
-  saturation: 0.02177366032265127
-  rhythmicContrast: 0.8004106511361897
 purpose: []
+favicon: null
+name: CogentDesi
+typography_spectrum: 0.265014321077615
